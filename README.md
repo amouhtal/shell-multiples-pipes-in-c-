@@ -1,2 +1,2 @@
-# shell-multiples-pipes-in-c-
+# shell-multiples-pipes-in-c
 Shell implementation of multiple pipes in C
